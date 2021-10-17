@@ -1,0 +1,5 @@
+# create your own with npm install
+node_modules
+
+# api keys
+.env
